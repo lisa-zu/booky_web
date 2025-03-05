@@ -1,5 +1,0 @@
-<template>
-  <div>
-    <h1>Booky</h1>
-  </div>
-</template>
